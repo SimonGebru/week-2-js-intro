@@ -1,0 +1,14 @@
+body { 
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+}
+main {
+    padding-left: 60px;
+    margin: auto;
+}
+nav {
+    padding-top: 50px;
+}
