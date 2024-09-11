@@ -1,5 +1,5 @@
 body { 
-    background-color: blanchedalmond;
+    background-color: rgb(240, 227, 208);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {
@@ -11,4 +11,27 @@ main {
 }
 nav {
     padding-top: 50px;
+}
+img {
+    width: 200px;
+    height: auto;
+    padding-left: 50px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2aa;
+    padding: 7px 0;
+    text-align: center;
+    border-top: 1px solid #e4e4e4;
+}
+.footer-links a {
+    color: #5f6368;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px;
+}
+.footer-links a:hover {
+    text-decoration: underline;
 }
