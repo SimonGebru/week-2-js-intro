@@ -1,0 +1,32 @@
+.Franz {
+    width: 200px;
+    height: auto;
+}
+
+.Charles {
+    width: 200px;
+    height: auto;
+}
+
+.EAP {
+    width: 200px;
+    height: auto;
+}
+body {
+    background-color: rgba(0, 255, 255, 0.198);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 103%;
+    padding: 5px 0;
+    text-align: center;
+    border-top: 1px solid #c0bcbc;
+    background-color: rgba(182, 189, 189, 0.279);
+}
+h1 {
+    font-size:50px;
+    text-decoration: underline;
+}
