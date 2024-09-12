@@ -13,7 +13,7 @@
     height: auto;
 }
 body {
-    background-color: rgba(0, 255, 255, 0.198);
+    background-color:rgba(237, 237, 224, 0.899);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -29,4 +29,7 @@ footer {
 h1 {
     font-size:50px;
     text-decoration: underline;
+    padding-left: 470px;
+    box-shadow: 3px 3px 10px grey;
 }
+
